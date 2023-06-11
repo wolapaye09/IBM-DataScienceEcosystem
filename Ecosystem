@@ -1,0 +1,417 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<center>\n",
+    "    <img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n",
+    "</center>\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### Add your code below following the instructions given in the course\n"
+    "<h1><strong>Topic of my Assignment</strong>:</h1>\n",
+    "\n",
+    "<h2> i was given an empty Jupyterlite note which i launched, to complete my assignment.</h2>\n",
+    "\n",
+   "<h3>Assignment Instructions:</h3><br>\n",
+   "\n",
+   "<h4>There are 25 points in total for this final assignment.</h4>\n",
+   "\n",
+   "<h5>Good luck to me as I begin my work</h5>\n",
+   "\n",
+   "<ol>\n",
+   "\n",
+   "<li>Exercise 2- create a markdown cell with the title of the notebook. (1 pt)</li>\n",
+   "\n",
+    "<li>Exercise 3- create a markdown cell for an introduction. (1 pt)</li>\n",
+   "\n",
+    "<li>Exercise 4- create a markdown cell to list data science languages. (3 pts)</li>\n",
+   "\n",
+    "<li>Exercise 5- create a markdown cell to list datascience libraries. (3 pts)</li>\n",
+   "\n",
+   "<li>Exercise 6- create a markdown cell with a table of data science tools. (3 pts)</li>\n",
+   "\n"
+   "<li>Exercise 7- create a markdown cell introducing arithmetic expression examples. (1 pt)</li>\n",
+   "\n"
+   "<li>Exercise 8- create a code cell to multiply and add numbers. (2 pts)</li>\n",
+   "\n"
+    "<li>Exercise 9- create a code cell to convert minutes to hours. (2 pts)</li>\n",
+   "\n"
+   "<li>Exercise 10- Insert a markdown cell to list objectives. (3 pts)</li>\n",
+   "\n",
+   "<li>Exercise 11- create a markdown cell to indicate the Author's name. (2 pts)</li>\n",
+   "\n",
+   "<li>Exercise 12-Share your notebook through Github (3 pts)</li>\n",
+   "\n",
+   "<li>Exercise 13- Take a screenshot of the first page of the notebook. (1 pt)</li>\n",
+   "\n",
+   "</ol>"
+   ]
+  },
+  {
+  "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<h1> Exercise 1- Create a Jupyter Notebook</h1>"
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<h2><strong>Name:</strong> Peer-graded_Assignment_work_submission</h2>"
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong> Exercise 2-Create a markdown cell with the title of the notebook</strong>"
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<h1> Datascience Tools and Ecosystem</h1>"
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong> Exercise 3: Create a markdown cell for an introduction</strong>"
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<p> I will be summarizing Datascience Tools</p>"
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong> Objectives</strong>\n",
+    "<ul>\n",
+    " <li>List popular languages that data scientist use.</li>\n",
+     " <li>List of commonly used libearies used by data scientist.</li>\n",
+      " <li>comment on data science tools.</li>\n",
+      "</ul>\n",
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong> Exercise 4- create a markdown to list data science languages</strong>"
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "Some of the popular languages that data scientists use are:\n",
+    "<ol>\n",
+    " <li>Python</li>\n",
+    " <li>R</li>\n",
+    " <li>Java</li>\n",
+    " <li>C++/C</li>\n",
+    " <li>Scala</li>\n",
+    " <li>SQL</li>\n",
+    " <li>Julia</li>\n",
+    " <li>JavaScript</li>\n",
+    "</ol>\n",
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong>Exercise 5- create a markdown cell to list datascience libraries.</strong>"
+    ]
+        },
+        {
+        "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "Some of commonly used libraries of data science are:\n",
+    "<ol>\n",
+    " <li>Scipy</li>\n",
+    " <li>Keras</li>\n",
+    " <li>JavaRamp</li>\n",
+    " <li>Bob</li>\n",
+    " <li>pipenv</li>\n",
+    " <li>Pandas</li>\n",
+    " <li>NumPy</li>\n",
+    " <li>BeautifulSoup</li>\n",
+    " <li>ELI5</li>\n",
+    " <li>LightGBM</li>\n",
+    " <li>SciKit-Learn</li>\n",
+    " <li>PyTorch</li>\n",
+    " <li>Theano</li>\n",
+    " <li>TensorFlow</li>\n",
+    " <li>Matplolotlib</li>\n",
+    " <li>Ramp</li>\n",
+    " <li>NuPic</li>\n",
+    " <li>PyBrain</li>\n",
+    " <li>Chainer</li>\n",
+    " <li>Caffe2</li>\n",
+    "</ol>\n",
+    ]
+    },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong>Exercise 6- create a markdown cell the tables of datascience tools.</strong>"
+    ]
+        },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "Datascience Tools are:\n",
+    "\n",
+    "<table style=\"width:100%\">\n",
+    "<tr>\n",
+    "<th>Data Science Tools</th>\n",
+    "<th></th>\n",
+    "<th></th>\n",
+    "</tr>\n",
+    "</tr>\n",
+    "<td>Apache Spark</td>\n",
+    "<td></td>\n",
+    "<td></td>\n",
+    "</tr>\n",
+    "</tr>\n",
+     "<td>BigML</td>\n",
+    "<td></td>\n",
+    "<td></td>\n",
+    "</tr>\n",
+    "</tr>\n",
+     "<td>SAS</td>\n",
+    "<td></td>\n",
+    "<td></td>\n",
+    "</tr>\n",
+    "</table>"
+    ]
+        },
+        {
+         "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong>Exercise 7- create a markdown cell introducing arithmetic expression examples .</strong>"
+    ]
+        },
+    {
+     "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<h3>below are few examples of arithmetic expressions.</h3>"
+    ]
+        },
+    {
+    "cell_type": "code",
+   "execution_count": 27,
+   "metadata": {},
+   "outputs": [
+   {
+   "data":{
+   "text/plain":[
+   "9"
+   ]
+   },
+   "execution_count":27,
+   "metadata":{},
+   "output_type":"execute_result"
+   }
+   ],
+   "source":[
+   "#Arithmetic Operations \n",
+   "code= compile(\"5+4\", \"<string>\", \"eval\")\n",
+   "eval(code)\n",
+   "# Result: 9\n"
+   ]
+   },
+   {
+   "cell_type": "code",
+   "execution_count": 28,
+   "metadata": {},
+   "outputs": [
+   {
+   "data":{
+   "text/plain":[
+   "24"
+   ]
+   },
+   "execution_count": 28,
+   "metadata":{},
+   "output_type":"execute_result"
+   }
+   ],
+    "source":[
+   "code1= compile(\"(5+7)*2\", \"<string>\", \"eval\")\n",
+   "eval(code1)\n",
+   "# Result: 24"
+   ]
+   },
+   {
+   "cell_type": "code",
+   "execution_count": 29,
+   "metadata": {},
+   "outputs": [
+   {
+   "data":{
+   "text/plain":[
+   "65449.84694978735"
+   ]
+   },
+   "execution_count": 29,
+   "metadata":{},
+   "output_type":"execute_result"
+   }
+   ],
+    "source":[
+    "import math\n",
+    "# Volume of a sphere\n",
+   "code2= compile(\"4/3* math.pi* math.pow(25,3)\", \"<string>\", \"eval\")\n",
+   "eval(code2)\n",
+   "# Result: 65449.84694978735"
+   ]
+   },
+   {
+   "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong>Exercise 8- create a code cell to multiply and add numbers.</strong>"
+    ]
+        },
+    {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "Below is the code to multiply and add numbers."
+    ]
+        },
+    {
+    "cell_type": "code",
+   "execution_count": 30,
+   "metadata": {},
+   "outputs": [
+   {
+   "data":{
+   "text/plain":[
+   "17"
+   ]
+   },
+   "execution_count": 30,
+   "metadata":{},
+   "output_type":"execute_result"
+   }
+   ],
+   "source":[
+   "(3*4)+5\n",
+   "# Result: 17"
+   ]
+   },
+   {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong>Exercise 9- create a code cell to converts minutes to hours.</strong>"
+    ]
+        },
+    {
+     "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "Below is the conversion of minutes to hours"
+    ]
+        },
+    {
+     "cell_type": "code",
+    "execution_count": 31,
+   "metadata":{},
+   "outputs":[
+   {
+   "name": "stdout",
+   "output_type":"stream",
+   "text":[
+   "0 days, 3.333333333335 hours, 0mins. \n"
+   ]
+   }
+   ],
+   "source": [
+   "days= 0\n",
+   "hours= 0\n",
+   "mins= 0\n",
+   "\n",
+   "time= 200\n",
+   "#days = time/1440\n",
+   "leftover_minutes =time % 1440\n",
+   "hours= leftover_minutes /60\n",
+   "# mins= time -(days*1440)-(hours*60)\n",
+   "print(str(days)+\"days, + str(hours)+ \" hours, \" + str(mins)+\"mins.\")\n",
+   "\n",
+   "# Result: 3.3333333333333335 hours"
+   ]
+   },
+   {
+    "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong>Exercise 10- Insert a markdown cell to list objectives.</strong>"
+    ]
+        },
+    {
+     "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<p>it is below the introduction cell created in exercise 3, insert a new markdown cell to listobjectives that this note book covers(i.e. some of the key takeaways from this course). In this cell start with an introductory line title. Objectives is in bold font. Then using an unordered list(bullets) indicates 3-5 items covered in this note book, such as popular languages for Data Science</p>"
+    ]
+        },
+    {
+     "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<strong>Exercise 11- Create a markdown cell to indicate the Author's name  .</strong>"
+    ]
+        },
+    {
+     "cell_type": "markdown",
+  "metadata": {},
+  "source":[
+    "<h2>Author:</h2>Hannah Wolapaye"
+    ]
+        },
+    ]
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
